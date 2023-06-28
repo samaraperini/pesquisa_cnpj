@@ -1,0 +1,953 @@
+1686754344705	geckodriver	INFO	Listening on 127.0.0.1:63090
+1686754347774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileTZrqge"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686754348716	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686754348727	Marionette	INFO	Listening on port 63100
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 63100
+WebDriver BiDi listening on ws://127.0.0.1:63091
+1686754349204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:63091/devtools/browser/5ad09f6b-2b18-4ca7-a69c-73032e37efbb
+1686754387121	geckodriver	INFO	Listening on 127.0.0.1:63124
+1686754390158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileZpsRlv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686754390621	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686754390629	Marionette	INFO	Listening on port 63132
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 63132
+WebDriver BiDi listening on ws://127.0.0.1:63125
+1686754390843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:63125/devtools/browser/3326d7bc-6f7d-4c5d-be35-45e68ad800eb
+1686755002073	geckodriver	INFO	Listening on 127.0.0.1:63438
+1686755005100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileqq98dV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686755005896	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686755005903	Marionette	INFO	Listening on port 63446
+Read port: 63446
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:63439
+1686755006110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:63439/devtools/browser/37253fc2-6c09-4dfc-9afe-1a2faad9a4c3
+1686756503648	geckodriver	INFO	Listening on 127.0.0.1:63795
+1686756506680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileJq4CsI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686756507692	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686756507700	Marionette	INFO	Listening on port 63871
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 63871
+WebDriver BiDi listening on ws://127.0.0.1:63796
+1686756507903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:63796/devtools/browser/444c789f-2d5f-4d71-80a1-29a3889adda4
+console.error: (new InvalidStateError("JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment", (void 0), 551))
+console.error: (new InvalidStateError("JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment", (void 0), 551))
+1686756614424	geckodriver	INFO	Listening on 127.0.0.1:64029
+1686756617474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileLZ9wAN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686756618010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686756618018	Marionette	INFO	Listening on port 64037
+Read port: 
+1686756618020	geckodriver::browser	WARN	Failed fo convert  to u16
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 64037
+WebDriver BiDi listening on ws://127.0.0.1:64030
+1686756618214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:64030/devtools/browser/34926554-cfb1-45f4-8cfe-99209da4f744
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1686756719933	geckodriver	INFO	Listening on 127.0.0.1:64168
+1686756722975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileEeLRvi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686756723809	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686756723816	Marionette	INFO	Listening on port 64176
+Read port: 64176
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:64169
+1686756724019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:64169/devtools/browser/baf05a50-b00d-4ffc-afd2-75633e134309
+1686756958008	geckodriver	INFO	Listening on 127.0.0.1:64444
+1686756961028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofiley8XxMZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686756961844	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686756961852	Marionette	INFO	Listening on port 64453
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 64453
+WebDriver BiDi listening on ws://127.0.0.1:64445
+1686756962045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:64445/devtools/browser/3fd20449-8cac-4c15-9780-e9751f5fd75e
+1686761913394	geckodriver	INFO	Listening on 127.0.0.1:65114
+1686761916442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileLEkyuX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686761917317	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686761917325	Marionette	INFO	Listening on port 65123
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 65123
+WebDriver BiDi listening on ws://127.0.0.1:65115
+1686761917550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:65115/devtools/browser/3ec5a8ad-12c7-488b-88a1-0db4d2d3c0ff
+1686762046773	geckodriver	INFO	Listening on 127.0.0.1:65223
+1686762049829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilegSVyxn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686762050286	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686762050294	Marionette	INFO	Listening on port 65231
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 65231
+WebDriver BiDi listening on ws://127.0.0.1:65224
+1686762050498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:65224/devtools/browser/6fc07767-06a6-42ef-87c5-1ad1ee5696db
+1686762208938	geckodriver	INFO	Listening on 127.0.0.1:65364
+1686762245371	geckodriver	INFO	Listening on 127.0.0.1:65389
+1686762248771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileCsSLyf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686762249625	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686762249633	Marionette	INFO	Listening on port 65398
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 65398
+WebDriver BiDi listening on ws://127.0.0.1:65390
+1686762249971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:65390/devtools/browser/d048108e-8fe4-4893-bbff-c531d3ed23c9
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1686762545155	geckodriver	INFO	Listening on 127.0.0.1:49189
+1686762548229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilefSnfPJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686762548922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686762548929	Marionette	INFO	Listening on port 49197
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 49197
+WebDriver BiDi listening on ws://127.0.0.1:49190
+1686762549131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:49190/devtools/browser/bb93133c-151c-4a72-b583-1239d98e0157
+1686762618656	geckodriver	INFO	Listening on 127.0.0.1:49248
+1686762621734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilea5NfhG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686762622628	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686762622635	Marionette	INFO	Listening on port 49256
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 49256
+WebDriver BiDi listening on ws://127.0.0.1:49249
+1686762622839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:49249/devtools/browser/1970143a-00ae-4385-8caf-7903f5b34f49
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1686763193920	geckodriver	INFO	Listening on 127.0.0.1:49574
+1686763196971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileevGDuG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686763198057	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686763198075	Marionette	INFO	Listening on port 49584
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 49584
+WebDriver BiDi listening on ws://127.0.0.1:49575
+1686763198595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:49575/devtools/browser/074fe3a7-dcdf-463b-83ac-ee37e8abbe69
+1686763345349	geckodriver	INFO	Listening on 127.0.0.1:49687
+1686763348400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileRhti39"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686763349218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686763349224	Marionette	INFO	Listening on port 49695
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 49695
+WebDriver BiDi listening on ws://127.0.0.1:49688
+1686763349444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:49688/devtools/browser/be113ddc-5936-47c3-afb8-8f99b5f72c82
+1686763647966	geckodriver	INFO	Listening on 127.0.0.1:49950
+1686763650987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileIwxQfj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686763651863	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686763651872	Marionette	INFO	Listening on port 49959
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 49959
+WebDriver BiDi listening on ws://127.0.0.1:49951
+1686763652071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:49951/devtools/browser/c09c825c-1b82-475b-8215-8f2f763345bd
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: (new InvalidStateError("JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment", (void 0), 551))
+console.error: (new InvalidStateError("JSWindowActorParent.sendAsyncMessage: JSWindowActorParent cannot send at the moment", (void 0), 551))
+1686763712314	geckodriver	INFO	Listening on 127.0.0.1:50041
+1686763715352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilerTPK9M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686763715889	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686763715897	Marionette	INFO	Listening on port 50049
+Read port: 50049
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:50042
+1686763716093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:50042/devtools/browser/bb48857d-0261-48f8-a383-6de2fec8db3a
+1686764307233	geckodriver	INFO	Listening on 127.0.0.1:50522
+1686764310306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilevrzcNL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686764311447	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686764311458	Marionette	INFO	Listening on port 50532
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 50532
+WebDriver BiDi listening on ws://127.0.0.1:50523
+1686764311816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:50523/devtools/browser/91e5725d-8b5e-47ab-9a5b-bcc7b4a9ca66
+1686765547462	geckodriver	INFO	Listening on 127.0.0.1:51025
+1686765550535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilerawFQ6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686765551642	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686765551655	Marionette	INFO	Listening on port 51033
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 51033
+WebDriver BiDi listening on ws://127.0.0.1:51026
+1686765552087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51026/devtools/browser/b7f5c16c-5a47-422c-ad3e-daa0deec7129
+1686765699754	geckodriver	INFO	Listening on 127.0.0.1:51145
+1686765702841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilePTedJt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686765703698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686765703706	Marionette	INFO	Listening on port 51153
+Read port: 51153
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:51146
+1686765703917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51146/devtools/browser/6ecb5b98-f05c-44ef-bd76-2fb8cb616c6a
+1686765791615	geckodriver	INFO	Listening on 127.0.0.1:51232
+1686765794642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile2uQW9s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686765795469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686765795476	Marionette	INFO	Listening on port 51240
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 51240
+WebDriver BiDi listening on ws://127.0.0.1:51233
+1686765795661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51233/devtools/browser/be809076-73a6-40f8-be0c-8c48363ca34f
+1686765901017	geckodriver	INFO	Listening on 127.0.0.1:51315
+1686765904080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileWZcsuq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686765904689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686765904696	Marionette	INFO	Listening on port 51323
+Read port: 51323
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:51316
+1686765904906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51316/devtools/browser/5018c482-17ae-4979-b7b8-1ecdcdc2c07a
+1686766027288	geckodriver	INFO	Listening on 127.0.0.1:51410
+1686766030332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileLq5N2M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686766031155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686766031162	Marionette	INFO	Listening on port 51418
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 51418
+WebDriver BiDi listening on ws://127.0.0.1:51411
+1686766031377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51411/devtools/browser/c6430544-a04b-4891-90dd-f6ccb1fd7cc1
+1686766562055	geckodriver	INFO	Listening on 127.0.0.1:51644
+1686766565126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilepCcDtE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686766566158	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686766566170	Marionette	INFO	Listening on port 51652
+Read port: 51652
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:51645
+1686766566462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51645/devtools/browser/18a66377-da95-443c-a4a1-ad313a0d004b
+1686766601352	geckodriver	INFO	Listening on 127.0.0.1:51719
+1686766604398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileeMKSPN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686766604880	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686766604887	Marionette	INFO	Listening on port 51727
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 51727
+WebDriver BiDi listening on ws://127.0.0.1:51720
+1686766605087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51720/devtools/browser/71ab8e71-7371-4c6c-9e11-04ed2b9d6634
+1686766799266	geckodriver	INFO	Listening on 127.0.0.1:51855
+1686766802340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileuM7Hy2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686766803189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686766803196	Marionette	INFO	Listening on port 51864
+Read port: 51864
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:51856
+1686766803402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51856/devtools/browser/0ed16d10-9a95-46c6-ab84-3a7f77b1f131
+1686766861354	geckodriver	INFO	Listening on 127.0.0.1:51937
+1686766864403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileHynvUL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686766865046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686766865053	Marionette	INFO	Listening on port 51945
+Read port: 
+1686766865055	geckodriver::browser	WARN	Failed fo convert  to u16
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 51945
+WebDriver BiDi listening on ws://127.0.0.1:51938
+1686766865270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:51938/devtools/browser/d110b924-6e12-4b27-b25c-6b9572404536
+1686767150635	geckodriver	INFO	Listening on 127.0.0.1:52106
+1686767153704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofiledq36mL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686767154596	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686767154603	Marionette	INFO	Listening on port 52115
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 52115
+WebDriver BiDi listening on ws://127.0.0.1:52107
+1686767154819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:52107/devtools/browser/7a206922-0559-4e87-888d-88e886d15e61
+1686767496475	geckodriver	INFO	Listening on 127.0.0.1:52232
+1686767499555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilerJIOTj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686767500112	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686767500120	Marionette	INFO	Listening on port 52240
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 52240
+WebDriver BiDi listening on ws://127.0.0.1:52233
+1686767500313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:52233/devtools/browser/817e6221-0b56-4970-8340-2fd2fde922a1
+1686767690364	geckodriver	INFO	Listening on 127.0.0.1:52336
+1686767693456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilePoFCPp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686767694242	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686767694250	Marionette	INFO	Listening on port 52344
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 52344
+WebDriver BiDi listening on ws://127.0.0.1:52337
+1686767694453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:52337/devtools/browser/8a0e1545-d18b-4dfd-9fe9-ebfe8b3edc3f
+1686840926562	geckodriver	INFO	Listening on 127.0.0.1:56763
+1686840929654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile2WVkC3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686840934455	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686840934465	Marionette	INFO	Listening on port 56773
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 56773
+WebDriver BiDi listening on ws://127.0.0.1:56764
+1686840934740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:56764/devtools/browser/0ea46c6a-df2c-4fba-8da1-4dc47f11f01d
+1686841043664	geckodriver	INFO	Listening on 127.0.0.1:56851
+1686841046727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilezo30P1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686841047708	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686841047719	Marionette	INFO	Listening on port 56861
+Read port: 56861
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:56852
+1686841047972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:56852/devtools/browser/7edbfd8e-f128-4b7a-a605-dd8dab8a1c6f
+1686841153063	geckodriver	INFO	Listening on 127.0.0.1:56950
+1686841156103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile8FuRJC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686841157528	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686841157535	Marionette	INFO	Listening on port 56958
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 56958
+WebDriver BiDi listening on ws://127.0.0.1:56951
+1686841157739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:56951/devtools/browser/7a17d2e2-7817-4b51-b8fe-c9476e21e23e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686841234022	geckodriver	INFO	Listening on 127.0.0.1:57043
+1686841237093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilesNiF0w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686841237619	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686841237626	Marionette	INFO	Listening on port 57052
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 57052
+WebDriver BiDi listening on ws://127.0.0.1:57044
+1686841237824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:57044/devtools/browser/6be3009a-3883-4c18-a3e7-8352b26d9673
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686841411563	geckodriver	INFO	Listening on 127.0.0.1:57173
+1686841414620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilet65l6c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686841415545	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686841415554	Marionette	INFO	Listening on port 57181
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 57181
+WebDriver BiDi listening on ws://127.0.0.1:57174
+1686841415775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:57174/devtools/browser/146762b1-abb7-474b-96b7-3d0b833a22fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686842270822	geckodriver	INFO	Listening on 127.0.0.1:58788
+1686842273863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilebVlcEF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686842274805	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686842274814	Marionette	INFO	Listening on port 58796
+Read port: 58796
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:58789
+1686842275038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:58789/devtools/browser/1dad1288-c07e-4768-b808-689490df2feb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686842479886	geckodriver	INFO	Listening on 127.0.0.1:58914
+1686842482923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilebnlW9Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686842483821	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686842483828	Marionette	INFO	Listening on port 58922
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 58922
+WebDriver BiDi listening on ws://127.0.0.1:58915
+1686842484029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:58915/devtools/browser/c4aef74b-bda6-43d3-a559-34be08b3b85e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686842837780	geckodriver	INFO	Listening on 127.0.0.1:59772
+1686842840820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilefVDlLT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686842841767	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686842841776	Marionette	INFO	Listening on port 59780
+Read port: 59780
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:59773
+1686842842019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:59773/devtools/browser/76614223-a204-4cd9-a6db-202818bb31ba
+1686843129771	geckodriver	INFO	Listening on 127.0.0.1:59962
+1686843132845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileJfw372"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686843133432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686843133440	Marionette	INFO	Listening on port 59990
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 59990
+WebDriver BiDi listening on ws://127.0.0.1:59963
+1686843133680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:59963/devtools/browser/5575c7ac-f9f6-4fd8-bafd-951e1ab91cfb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686843703421	geckodriver	INFO	Listening on 127.0.0.1:60225
+1686843706491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilejPltwL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686843706966	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686843706974	Marionette	INFO	Listening on port 60233
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 60233
+WebDriver BiDi listening on ws://127.0.0.1:60226
+1686843707204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:60226/devtools/browser/294a82d3-360b-4f88-90c1-50a42305057c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686843754717	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686844321793	Marionette	INFO	Stopped listening on port 60233
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1686844329644	geckodriver	INFO	Listening on 127.0.0.1:60411
+1686844332715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileIZgMtB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686844333189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686844333197	Marionette	INFO	Listening on port 60419
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 60419
+WebDriver BiDi listening on ws://127.0.0.1:60412
+1686844333408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:60412/devtools/browser/8da421dc-efae-4356-90f5-7d00067e5a4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686848883276	Marionette	INFO	Stopped listening on port 60419
+Dynamically enable window occlusion 1
+[Parent 18304, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1686848898929	geckodriver	INFO	Listening on 127.0.0.1:60988
+1686848902014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileohkS1m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686848902953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686848902961	Marionette	INFO	Listening on port 60996
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 60996
+WebDriver BiDi listening on ws://127.0.0.1:60989
+1686848903177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:60989/devtools/browser/53e24fe3-7565-47f2-bfb7-a545e3925062
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686849252298	Marionette	INFO	Stopped listening on port 60996
+Dynamically enable window occlusion 1
+1686849308826	geckodriver	INFO	Listening on 127.0.0.1:61134
+1686849311899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileoEvSgt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686849312394	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686849312400	Marionette	INFO	Listening on port 61142
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61142
+WebDriver BiDi listening on ws://127.0.0.1:61135
+1686849312591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61135/devtools/browser/742061a6-c8e2-447a-96e6-c31374805860
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686849984426	geckodriver	INFO	Listening on 127.0.0.1:61292
+1686849987478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileehj6zN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686849987971	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686849987979	Marionette	INFO	Listening on port 61300
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61300
+WebDriver BiDi listening on ws://127.0.0.1:61293
+1686849988182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61293/devtools/browser/11edca20-207f-42cf-876c-2bbac391f0b3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686850282326	geckodriver	INFO	Listening on 127.0.0.1:61429
+1686850285374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile0q3z9u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686850285981	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686850285989	Marionette	INFO	Listening on port 61437
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61437
+WebDriver BiDi listening on ws://127.0.0.1:61430
+1686850286205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61430/devtools/browser/889c2b74-5d00-4a9c-9dc5-51fe509a6f07
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686850326298	geckodriver	INFO	Listening on 127.0.0.1:61506
+1686850329376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilegYzSls"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686850329851	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686850329858	Marionette	INFO	Listening on port 61514
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61514
+WebDriver BiDi listening on ws://127.0.0.1:61507
+1686850330068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61507/devtools/browser/70b8acc6-96e4-4554-8047-407542d41109
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686850396864	geckodriver	INFO	Listening on 127.0.0.1:61598
+1686850399914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilef7g3Tg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686850400392	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686850400398	Marionette	INFO	Listening on port 61606
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61606
+WebDriver BiDi listening on ws://127.0.0.1:61599
+1686850400590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61599/devtools/browser/3db959d9-4cd5-4f36-bd61-06a40947107a
+1686850428672	geckodriver	INFO	Listening on 127.0.0.1:61667
+1686850431712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile45QYjl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686850432189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686850432196	Marionette	INFO	Listening on port 61675
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61675
+WebDriver BiDi listening on ws://127.0.0.1:61668
+1686850432410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61668/devtools/browser/9d6152e3-c5a1-44f5-8880-2b2b8b62a5c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686850640359	geckodriver	INFO	Listening on 127.0.0.1:61773
+1686850643405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile5JjkOL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686850643850	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686850643859	Marionette	INFO	Listening on port 61781
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61781
+WebDriver BiDi listening on ws://127.0.0.1:61774
+1686850644053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61774/devtools/browser/a4c3d00d-d290-43d4-975b-6f4a5672e0ad
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686850900455	geckodriver	INFO	Listening on 127.0.0.1:61900
+1686850903532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileJZcM6m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686850904320	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686850904327	Marionette	INFO	Listening on port 61908
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 61908
+WebDriver BiDi listening on ws://127.0.0.1:61901
+1686850904531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:61901/devtools/browser/3de8cc84-4ce3-4223-85d9-ca16fc4f223d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686851259484	Marionette	INFO	Stopped listening on port 61908
+Dynamically enable window occlusion 1
+1686851620929	geckodriver	INFO	Listening on 127.0.0.1:62267
+1686851623984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileuaC3SR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686851624560	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686851624567	Marionette	INFO	Listening on port 62275
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 62275
+WebDriver BiDi listening on ws://127.0.0.1:62268
+1686851624789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:62268/devtools/browser/f53826ab-85cc-4a20-804a-f51b9d5252a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686851776802	Marionette	INFO	Stopped listening on port 62275
+Dynamically enable window occlusion 1
+1686851944923	geckodriver	INFO	Listening on 127.0.0.1:62397
+1686851947989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofilePkjjz8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686851948915	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686851948923	Marionette	INFO	Listening on port 62409
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 62409
+WebDriver BiDi listening on ws://127.0.0.1:62398
+1686851949166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:62398/devtools/browser/18e68beb-b9ff-4c55-8310-401467b7f5b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686852039718	Marionette	INFO	Stopped listening on port 62409
+Dynamically enable window occlusion 1
+[Parent 16816, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1686852091632	geckodriver	INFO	Listening on 127.0.0.1:62505
+1686852094693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileFNWE1r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686852095188	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686852095196	Marionette	INFO	Listening on port 62513
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 62513
+WebDriver BiDi listening on ws://127.0.0.1:62506
+1686852095395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:62506/devtools/browser/0938bf2b-2bcd-40f9-a7e4-25f2328c9b1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686852306294	Marionette	INFO	Stopped listening on port 62513
+Dynamically enable window occlusion 1
+1686852426618	geckodriver	INFO	Listening on 127.0.0.1:62647
+1686852429699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile5GPbEW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686852430550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686852430558	Marionette	INFO	Listening on port 62656
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 62656
+WebDriver BiDi listening on ws://127.0.0.1:62648
+1686852430758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:62648/devtools/browser/bb70743f-295d-48ed-9a8d-aee93239c2c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686852511733	Marionette	INFO	Stopped listening on port 62656
+Dynamically enable window occlusion 1
+1686852555169	geckodriver	INFO	Listening on 127.0.0.1:62735
+1686852558308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileVQWHHy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686852558813	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686852558821	Marionette	INFO	Listening on port 62743
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 62743
+WebDriver BiDi listening on ws://127.0.0.1:62736
+1686852559018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:62736/devtools/browser/cdab7411-95fe-4add-bebc-59cbc93b502c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686852653875	geckodriver	INFO	Listening on 127.0.0.1:62846
+1686852656921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileLCZPAO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686852657789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686852657797	Marionette	INFO	Listening on port 62855
+Read port: 62855
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:62847
+1686852657998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:62847/devtools/browser/331ade62-5ab8-4f4c-9f81-4697fb580e01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686852816698	Marionette	INFO	Stopped listening on port 62855
+Dynamically enable window occlusion 1
+1686853673702	geckodriver	INFO	Listening on 127.0.0.1:63039
+1686853676752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileI3hfet"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686853677245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686853677253	Marionette	INFO	Listening on port 63047
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+Read port: 63047
+WebDriver BiDi listening on ws://127.0.0.1:63040
+1686853677474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:63040/devtools/browser/96c1aa85-1c01-46b8-b02d-ea3f16550f21
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686853818702	Marionette	INFO	Stopped listening on port 63047
+Dynamically enable window occlusion 1
+1686854071504	geckodriver	INFO	Listening on 127.0.0.1:63231
+1686854074554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofile0zogYJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686854075043	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686854075052	Marionette	INFO	Listening on port 63239
+Read port: 63239
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:63232
+1686854075266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:63232/devtools/browser/73371c58-d3ae-4cf4-989b-670b2a8e7beb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686854333916	Marionette	INFO	Stopped listening on port 63239
+Dynamically enable window occlusion 1
+1686938267842	geckodriver	INFO	Listening on 127.0.0.1:52672
+1686938270895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--private" "--disable-extensions" "--remot ... emote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMARA~1.PER\\AppData\\Local\\Temp\\rust_mozprofileiLm539"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686938274149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686938274160	Marionette	INFO	Listening on port 52680
+Read port: 52680
+console.error: "Warning: unrecognized command line flag -disable-extensions\n"
+WebDriver BiDi listening on ws://127.0.0.1:52673
+1686938274439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+DevTools listening on ws://127.0.0.1:52673/devtools/browser/06fce3ed-256d-40ea-9b07-1e5104f9a961
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686938336078	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686938410964	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686938454085	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686938490209	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://solucoes.receita.fazenda.gov.br."
+1686938962850	Marionette	INFO	Stopped listening on port 52680
+Dynamically enable window occlusion 1
