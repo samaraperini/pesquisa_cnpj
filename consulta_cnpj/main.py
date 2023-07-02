@@ -1,10 +1,11 @@
+#imports
 import os
 import pandas as pd
 import iniciar
 import driver
 import navegador
 import coletar_dados
-
+#caminho_arquivos
 INPUT_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'input')
 OUTPUT_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'output')
 CAMINHO_INPUT = os.path.join(INPUT_PATH, 'input.csv')
@@ -29,7 +30,7 @@ for numero_cnpj in consultas:
             else: coletar_dados.coletar_dados(driver,numero_cnpj)
     else:
         coletar_dados.coletar_dados(driver,numero_cnpj)
-
+#criando_output
 df_output = pd.DataFrame.from_dict(coletar_dados.dicionario)
 df_output.drop_duplicates(subset=['CNPJ'], inplace=True)
 df_output.drop([0], axis=0, inplace=True)
